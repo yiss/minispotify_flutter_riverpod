@@ -75,10 +75,7 @@ final currentlyPlayingProvider =
     StreamProvider.autoDispose<AudioTrackModel>((ref) {
   final playlist = ref.watch(playlistProvider);
   final audioPlayer = ref.watch(audioPlayerProvider);
-  return audioPlayer.current.map((playing) {
-    print(playing.index);
-    return playlist[playing.index];
-  });
+  return audioPlayer.current.map((playing) => playlist[playing.index]);
 });
 
 final totalDurationProvider = StreamProvider.autoDispose<double>((ref) {

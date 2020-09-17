@@ -1,15 +1,12 @@
-# minispotify
+# Mini Spotify in FLutter using Provider
 
-A new Flutter project.
+This repository is part of the article I wrote on Medium, on how to create a mini Spotify application in Flutter using the new state management solution riverpod
 
-## Getting Started
+## Demo 🚀 :
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Spotify Cards](https://github.com/yiss/minispotify_flutter_riverpod/blob/master/images/demo.gif)
+[Spotify Cards](https://github.com/yiss/minispotify_flutter_riverpod/master/images/screenshot_1.png)
+[Spotify Cards](https://github.com/yiss/minispotify_flutter_riverpod/blob/master/images/screenshot_2.png)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,

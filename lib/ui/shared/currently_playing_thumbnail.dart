@@ -12,7 +12,6 @@ class CurrentlyPlayingThumbnail extends ConsumerWidget {
   @override
   Widget build(BuildContext context, ScopedReader watch) {
     final currentlyPlaying = watch(currentlyPlayingProvider);
-    // if (currentlyPlaying.isEmpty) return Container();
     return currentlyPlaying.when(
         data: (audioTrackModel) => Image.network(
               audioTrackModel.thumbnail,
