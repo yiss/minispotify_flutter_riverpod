@@ -6,7 +6,7 @@ The medium article : [Let’s create a Mini Spotify with Flutter and Riverpod](h
 ## Demo 🚀 :
 
 ![Denmo](https://github.com/yiss/minispotify_flutter_riverpod/blob/master/images/demo.gif)
-![Screenshot 1](https://github.com/yiss/minispotify_flutter_riverpod/master/images/screenshot_1.png)
+![Screenshot 1](https://github.com/yiss/minispotify_flutter_riverpod/blob/master/images/screenshot_1.png)
 ![Screenshot 2](https://github.com/yiss/minispotify_flutter_riverpod/blob/master/images/screenshot_2.png)
 
 For help getting started with Flutter, view our
